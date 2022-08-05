@@ -1,0 +1,3 @@
+1. Where to save and what name.
+2. Capture data.
+3. Sort data.

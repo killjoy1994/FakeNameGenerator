@@ -1,0 +1,15 @@
+1. Where to save and what name.
+2. Capture data.
+3. Sort data.
+
+
+steps: 
+1. Enter the file name.
+2. Select the folder.
+3. Build data table.
+4. Open browser.
+5. Get text.
+6. Refresh page.
+7. Add data row.
+8. Sort the data.
+9. Write to excel. 
