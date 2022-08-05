@@ -243,6 +243,6 @@
       </ui:InterruptibleDoWhile.Condition>
     </ui:InterruptibleDoWhile>
     <ui:SortDataTable ColumnName="{x:Null}" DataColumn="{x:Null}" ColumnIndex="[0]" DataTable="[MyDataTable]" DisplayName="Sort Data Table" sap:VirtualizedContainerService.HintSize="467,238" sap2010:WorkflowViewState.IdRef="SortDataTable_1" Order="Ascending" OutputDataTable="[MyDataTable]" SortOrder="Ascending" />
-    <ui:WriteRange StartingCell="{x:Null}" AddHeaders="False" DataTable="[MyDataTable]" DisplayName="Write Range" sap:VirtualizedContainerService.HintSize="467,115" sap2010:WorkflowViewState.IdRef="WriteRange_1" SheetName="Sheet1" WorkbookPath="[SelectedFolder + &quot;\&quot; + FileName + &quot;.xlsx&quot;]" />
+    <ui:WriteRange StartingCell="{x:Null}" AddHeaders="True" DataTable="[MyDataTable]" DisplayName="Write Range" sap:VirtualizedContainerService.HintSize="467,115" sap2010:WorkflowViewState.IdRef="WriteRange_1" SheetName="Sheet1" WorkbookPath="[SelectedFolder + &quot;\&quot; + FileName + &quot;.xlsx&quot;]" />
   </Sequence>
 </Activity>
